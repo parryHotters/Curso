@@ -1,9 +1,9 @@
-{
+/*{
     nombreCliente;
     dniCliente;
     numeroCuenta;
     saldoCuenta;
-}
+}*/
 
 const nombreCliente = "leonardo";
 const dniCliente = "13804050";
